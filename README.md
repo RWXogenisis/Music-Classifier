@@ -14,7 +14,13 @@ The modules used here are:
 
 `Numpy` also plays a vital role which helps in interpreting the images in the form  of matrices and helps in matrix calculations while training the model
 
+## How to use it
+1. First download the dataset from <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">here</a>
+2. Once downloaded, keep it in the same folder as the jupyter notebook and run it to create the music classification model.
+3. Once the model is created, run the `classifier.py` file which should open the GUI. Follow the instructions.
+
 ## Music Genre Classifier Model Creation:
+To create the model run the jupyter notebook.
 
 ![Working of the model](Images/image4.png)
 
