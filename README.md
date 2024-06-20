@@ -22,6 +22,10 @@ In the above diagram, the input is given in the form of a mp3 or wav file for tr
 
 We have implement the same logic as a sound classifier as below
 
-![Sound Classifier Training](Images/image23.png)![](Images/image8.png)
+<p align="center">
+  <img src="Images/image23.png" alt="Sound Classifier Training" width="45%" />
+  <img src="Images/image8.png" alt="Another Image" width="45%" />
+</p>
+
 ![Music Metadata Analysis](Images/image1.png)
 
