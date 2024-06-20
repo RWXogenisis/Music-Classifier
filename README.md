@@ -24,7 +24,7 @@ We have implement the same logic as a sound classifier as below
 
 <p align="center">
   <img src="Images/image23.png" alt="Sound Classifier Training" width="45%" />
-  <img src="Images/image8.png" alt="Another Image" width="20%" />
+  <img src="Images/image8.png" alt="Another Image" width="15%" />
 </p>
 
 ![Music Metadata Analysis](Images/image1.png)
