@@ -89,7 +89,7 @@ To reuse the model we need sufficient RAM (about 16GB) to load the model and fee
 
 ## Use Case Diagram
 
-![Use case diagram](images/image5.png)
+![Use case diagram](Images/image5.png)
 
 ## Graphical UI
 
